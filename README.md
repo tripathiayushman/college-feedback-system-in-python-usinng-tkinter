@@ -19,3 +19,10 @@ A Python-based feedback collection application built using Tkinter and MySQL. Th
    ```bash
    git clone https://github.com/yourusername/college-feedback-system.git
    cd college-feedback-system
+
+## screen shots
+![image](https://github.com/user-attachments/assets/17316656-37b7-4517-ada1-1b3dd9a98482)
+![image](https://github.com/user-attachments/assets/20f5b1ed-6325-45fe-8e05-72b1f425254c)
+![image](https://github.com/user-attachments/assets/4cbc8613-dde6-4b7e-9784-a637462d8ea7)
+![image](https://github.com/user-attachments/assets/449a04a6-25ce-4a22-985e-36a2f0f0d260)
+![image](https://github.com/user-attachments/assets/725772fa-b2b0-429d-97a0-a919e56a2557)
